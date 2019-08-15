@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "FeatureFactory.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "FeatureFactory.Core": "1.0.0"
+        },
+        "runtime": {
+          "FeatureFactory.ConsoleApp.dll": {}
+        }
+      },
+      "FeatureFactory.Core/1.0.0": {
+        "runtime": {
+          "FeatureFactory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeatureFactory.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeatureFactory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

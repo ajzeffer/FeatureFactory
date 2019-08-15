@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/FeatureFactory.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/FeatureFactory.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/FeatureFactory.ConsoleApp.csproj",
+        "projectName": "FeatureFactory.ConsoleApp",
+        "projectPath": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/FeatureFactory.ConsoleApp.csproj",
+        "packagesPath": "/Users/adamzeffer/.nuget/packages/",
+        "outputPath": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/adamzeffer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/FeatureFactory.Core.csproj": {
+                "projectPath": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/FeatureFactory.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/FeatureFactory.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/FeatureFactory.Core.csproj",
+        "projectName": "FeatureFactory.Core",
+        "projectPath": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/FeatureFactory.Core.csproj",
+        "packagesPath": "/Users/adamzeffer/.nuget/packages/",
+        "outputPath": "/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/adamzeffer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

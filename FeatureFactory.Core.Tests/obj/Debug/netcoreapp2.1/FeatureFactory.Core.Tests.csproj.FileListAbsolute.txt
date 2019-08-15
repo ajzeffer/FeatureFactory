@@ -1,0 +1,17 @@
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.csprojAssemblyReference.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.csproj.CoreCompileInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.AssemblyInfoInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.AssemblyInfo.cs
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.deps.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.runtimeconfig.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.runtimeconfig.dev.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/bin/Debug/netcoreapp2.1/FeatureFactory.Core.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.csproj.CopyComplete
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core.Tests/obj/Debug/netcoreapp2.1/FeatureFactory.Core.Tests.pdb

@@ -1,0 +1,14 @@
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.deps.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.runtimeconfig.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.runtimeconfig.dev.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.Core.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/bin/Debug/netcoreapp2.1/FeatureFactory.Core.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.csprojAssemblyReference.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.AssemblyInfoInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.AssemblyInfo.cs
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.csproj.CopyComplete
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.ConsoleApp/obj/Debug/netcoreapp2.1/FeatureFactory.ConsoleApp.pdb

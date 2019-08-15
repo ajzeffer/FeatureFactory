@@ -1,0 +1,9 @@
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/bin/Debug/netcoreapp2.1/FeatureFactory.Core.deps.json
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/bin/Debug/netcoreapp2.1/FeatureFactory.Core.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/bin/Debug/netcoreapp2.1/FeatureFactory.Core.pdb
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.csprojAssemblyReference.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.csproj.CoreCompileInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.AssemblyInfoInputs.cache
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.AssemblyInfo.cs
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.dll
+/Users/adamzeffer/RiderProjects/FeatureFactory/FeatureFactory.Core/obj/Debug/netcoreapp2.1/FeatureFactory.Core.pdb
