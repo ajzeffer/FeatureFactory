@@ -7,7 +7,7 @@ namespace FeatureFactory.Core
 {
     public static class FeatFactory
     {
-        public static IFeature GetFeatureFactory(string featFlag)
+        public static IFeature GetFeatureImplementation(string featFlag)
         {
             if (featFlag == Constants.FeatFlag)
             {

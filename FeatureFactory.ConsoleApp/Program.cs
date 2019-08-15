@@ -8,7 +8,7 @@ namespace FeatureFactory.ConsoleApp
         static void Main(string[] args)
         {
            var result = FeatFactory
-                .GetFeatureFactory(Constants.FeatFlag)
+                .GetFeatureImplementation(Constants.FeatFlag)
                 .DoStuff();
 
            Console.WriteLine(result);
