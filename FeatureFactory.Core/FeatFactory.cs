@@ -15,5 +15,20 @@ namespace FeatureFactory.Core
             }
             return new FeatureV2(); 
         }
+
+
+        /// <summary>
+        /// Takes FeatureFunction wrapper which has the new and old method we are wanting to switch on
+        /// as well as boolean value on whether to use the new feature or not
+        /// </summary>
+        /// <param name="features"></param>
+        /// <param name="flagOn"></param>
+        /// <typeparam name="T"></typeparam>
+        /// <returns></returns>
+        public static T FuncFactory<T>(FeatureFunctions<T> features, bool flagOn)
+        {
+            return !flagOn ? features.FeatOld : features.FeatNew;
+           
+        }
     }
 }
